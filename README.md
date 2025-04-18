@@ -3,7 +3,7 @@ Go Scanner for Erlang OTP SSH Exploit
 
 # Erlang/OTP SSH Early Command Execution Vulnerability Scanner
 
-A specialized scanner to detect Erlang/OTP SSH servers vulnerable to CVE-2024-37576, an authentication bypass vulnerability that allows early command execution before authentication.
+A specialized scanner to detect Erlang/OTP SSH servers vulnerable to RCE, an authentication bypass vulnerability that allows early command execution before authentication.
 
 ## Overview
 
