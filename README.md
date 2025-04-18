@@ -136,4 +136,4 @@ If vulnerable servers are found:
 
 ## Acknowledgments
 
-Original exploit and vulnerability research by [appropriate credits].
+Original exploit and vulnerability research by gdbinit in here: https://gist.github.com/gdbinit/e08e95ce77e031cd223c537ef67ed638 .
